@@ -18,7 +18,6 @@ public class My_applet extends Applet{
 	
 	public void Changetext(String text){
 		usernamelable.setText(text);
-		System.out.println("text: "+text);
 	}
 
 }
